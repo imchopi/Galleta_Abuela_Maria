@@ -116,6 +116,9 @@ Para usar el sistema en CLIPS, simplemente debes cargar la base de hechos y las 
 Después de ejecutar el sistema, se puede consultar la temperatura recomendada con el comando:
 
 ### Imágenes
+
+Como podemos observar, al almacenarse la temperatura en f-4, aunque pongamos 6, el PRNTUTIL1 nos dará como resultado 0.0, debido a que no está guardado en f-6.
+
 ![image](https://github.com/user-attachments/assets/050c4d9e-437e-4c45-b008-bd7dc29521ee)
 
 ### Conclusión
