@@ -115,5 +115,8 @@ Para usar el sistema en CLIPS, simplemente debes cargar la base de hechos y las 
 ```
 Después de ejecutar el sistema, se puede consultar la temperatura recomendada con el comando:
 
+### Imágenes
+![image](https://github.com/user-attachments/assets/050c4d9e-437e-4c45-b008-bd7dc29521ee)
+
 ### Conclusión
 Este sistema automatizado de control de temperatura es una representación simplificada de cómo las reglas empíricas de la abuela María pueden aplicarse mediante un sistema basado en conocimiento para lograr un horneado perfecto de galletas. El uso de CLIPS y lógica difusa permite que el sistema tome decisiones basadas en las observaciones del color de las galletas, ajustando la temperatura del horno de manera eficiente.
