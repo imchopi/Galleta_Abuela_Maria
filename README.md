@@ -1,3 +1,5 @@
+# Realizado por Jairo y Adrián
+
 # Sistema de Control Automático de Temperatura del Horno para Galletas
 
 Este sistema tiene como objetivo automatizar el control de la temperatura del horno mientras se hornean galletas, basándose en el color de las galletas durante el proceso de cocción. La abuela María, con su vasta experiencia, ha utilizado un conjunto de reglas empíricas para determinar la temperatura adecuada del horno en función del color de las galletas.
